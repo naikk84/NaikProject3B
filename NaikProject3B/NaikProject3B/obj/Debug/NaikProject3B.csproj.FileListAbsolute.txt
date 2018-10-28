@@ -1,0 +1,10 @@
+C:\Users\naikk\Desktop\.Net programming\Project3B\NaikProject3B\NaikProject3B\obj\Debug\NaikProject3B.csprojAssemblyReference.cache
+C:\Users\naikk\Desktop\.Net programming\Project3B\NaikProject3B\NaikProject3B\obj\Debug\NaikProject3B.String.resources
+C:\Users\naikk\Desktop\.Net programming\Project3B\NaikProject3B\NaikProject3B\obj\Debug\NaikProject3B.Properties.Resources.resources
+C:\Users\naikk\Desktop\.Net programming\Project3B\NaikProject3B\NaikProject3B\obj\Debug\NaikProject3B.csproj.GenerateResource.cache
+C:\Users\naikk\Desktop\.Net programming\Project3B\NaikProject3B\NaikProject3B\obj\Debug\NaikProject3B.csproj.CoreCompileInputs.cache
+C:\Users\naikk\Desktop\.Net programming\Project3B\NaikProject3B\NaikProject3B\bin\Debug\NaikProject3B.exe.config
+C:\Users\naikk\Desktop\.Net programming\Project3B\NaikProject3B\NaikProject3B\bin\Debug\NaikProject3B.exe
+C:\Users\naikk\Desktop\.Net programming\Project3B\NaikProject3B\NaikProject3B\bin\Debug\NaikProject3B.pdb
+C:\Users\naikk\Desktop\.Net programming\Project3B\NaikProject3B\NaikProject3B\obj\Debug\NaikProject3B.exe
+C:\Users\naikk\Desktop\.Net programming\Project3B\NaikProject3B\NaikProject3B\obj\Debug\NaikProject3B.pdb
